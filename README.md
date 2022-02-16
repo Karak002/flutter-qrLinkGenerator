@@ -4,7 +4,7 @@ this is a simple pretty clean widget that, taking a url as input, generates a qr
 
 the parameters that can be used are:
 
-## **Url**: is the only required parameter, you can enter anything such as a phrase, a link etc ...
+## **Url**: \ is the only required parameter, you can enter anything such as a phrase, a link etc ...
 
 ## **dimension**: which by default is equal to 150x150 and must be passed as a string in this way "150x150"
 
