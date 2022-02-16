@@ -23,4 +23,4 @@ the parameters that can be used are:
 
 
 
-##I advise you to pay attention to the choice of colors, colors that are too similar to each other could create difficulties in recognizing the qr code
+## I advise you to pay attention to the choice of colors, colors that are too similar to each other could create difficulties in recognizing the qr code
