@@ -26,7 +26,8 @@ is used to change the color of the internal drawing of the qr code, by default i
 
 
 ## **this is an example of personalized qr code**
-\
+
+
 ![Qr code](https://github.com/Karak002/flutter-qrLinkGenerator/blob/main/download%20(1).png)
 \
 ## **and this is the code:** 
