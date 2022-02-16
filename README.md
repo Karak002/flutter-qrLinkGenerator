@@ -8,10 +8,12 @@ the parameters that can be used are:
 is the only required parameter, you can enter anything such as a phrase, a link etc ...
 
 ## **dimension**: 
+\
 which by default is equal to 150x150 and must be passed as a string in this way "150x150"
 
 
-## **backgoundColor**: 
+## **backgoundColor**:
+\
 which by default is white, can be set by passing it a hexadecimal color, an example is this: "FFFFFF"
 
 ## **lineColor**: 
