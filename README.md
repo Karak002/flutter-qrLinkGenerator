@@ -22,13 +22,9 @@ which by default is white, can be set by passing it a hexadecimal color, an exam
 is used to change the color of the internal drawing of the qr code, by default it is set to black ("000000"), an example of an accepted value is this: "FFF001"
 \
 ## I advise you to pay attention to the choice of colors, colors that are too similar to each other could create difficulties in recognizing the qr code
-
 \
-
 ## **this is an example of personalized qr code**
-
 \
-
 ![Qr code](https://github.com/Karak002/flutter-qrLinkGenerator/blob/main/download%20(1).png)
 \
 ## **and this is the code:** 
