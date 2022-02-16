@@ -29,7 +29,8 @@ is used to change the color of the internal drawing of the qr code, by default i
 
 
 ![Qr code](https://github.com/Karak002/flutter-qrLinkGenerator/blob/main/download%20(1).png)
-\
+
+
 ## **and this is the code:** 
 \
 \
