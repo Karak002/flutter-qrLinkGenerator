@@ -22,3 +22,5 @@ the parameters that can be used are:
 ![code](https://github.com/Karak002/flutter-qrLinkGenerator/blob/main/Immagine%202022-02-16%20162743.png)
 
 
+
+<span style="color:blue">I advise you to pay attention to the choice of colors, colors that are too similar to each other could create difficulties in recognizing the qr code</span>.
